@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pabitra Kumar Swain</h1>
 <h3 align="center">I'm a dedicated and passionate Software Development Engineer in Test (SDET) from India</h3>
 
-- 🔭 I’m currently working on [Test Automation Toolkit](https://github.com/the-sdet/test-automation-utils)
+- 🔭 I’m currently working on [Test Automation Toolkit](https://github.com/the-sdet/test-automation-toolkit)
 
 - 🌱 I’m currently learning **Test Automation Frameworks, Appium**
 
